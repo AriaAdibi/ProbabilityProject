@@ -1,1 +1,1 @@
-# ProbabilityProject
+# Probability Project
